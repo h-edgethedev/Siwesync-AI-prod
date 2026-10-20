@@ -3,7 +3,7 @@
 export default function FeatureBannerDark() {
   return (
     <section className="bg-[#091325] py-16 md:py-24 text-white">
-      <div className="max-w-[1320px] mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="max-w-330 mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
           
           {/* Left Column: Vision & Transparency Messaging */}

@@ -5,7 +5,7 @@ import Link from 'next/link';
 export default function CVFeature() {
   return (
     <section className="py-16 md:py-24 bg-[#F7FAFC] border-t border-slate-100">
-      <div className="max-w-[1320px] mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="max-w-330 mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
           
           {/* Left Column: CV Feedback Card Mockup */}

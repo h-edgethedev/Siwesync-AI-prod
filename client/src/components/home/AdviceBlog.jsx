@@ -70,7 +70,7 @@ export default function AdviceBlog() {
             <article key={article.id} className="flex flex-col group">
               
               {/* Image Container */}
-              <div className="relative aspect-[16/10] w-full rounded-2xl overflow-hidden mb-5 bg-slate-100 border border-slate-200/60">
+              <div className="relative aspect-16/10 w-full rounded-2xl overflow-hidden mb-5 bg-slate-100 border border-slate-200/60">
                 <Image
                   src={article.imageSrc}
                   alt={article.imageAlt}

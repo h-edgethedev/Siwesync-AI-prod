@@ -7,7 +7,7 @@ import siwesyncLogo from '../../../public/siwesync_logo.png';
 export default function Footer() {
   return (
     <footer className="bg-white border-t border-slate-100 pt-16 pb-12 text-slate-600">
-      <div className="max-w-[1320px] mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
+      <div className="max-w-330 mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
         
         {/* Top Grid */}
         <div className="grid grid-cols-1 md:grid-cols-12 gap-10">

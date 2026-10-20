@@ -44,7 +44,7 @@ const STEPS = [
 export default function HowItWorks() {
   return (
     <section className="py-12 md:py-16 bg-white border-t border-slate-100" id="how-it-works">
-      <div className="max-w-[1320px] mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="max-w-330 mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Eyebrow Tag */}
         <span className="text-[#00a896] font-bold text-xs uppercase tracking-wider block mb-2">
