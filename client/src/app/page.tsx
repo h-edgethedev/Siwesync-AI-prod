@@ -5,6 +5,11 @@ import OpportunityBoard from "@/components/home/OppurtunityBoard";
 import Categories from '../components/home/Categories';
 import HowItWorks from '../components/home/HowItWorks';
 import LabelGuide from '../components/home/LabelGuide';
+import CVFeature from '../components/home/CVFeature';
+import AdviceBlog from '../components/home/AdviceBlog';
+import FAQ from '../components/home/FAQ';
+import BottomCTA from '../components/home/BottomCTA';
+import Footer from '../components/layout/Footer';
 
 export default function Home() {
   return (
@@ -16,6 +21,11 @@ export default function Home() {
         <Categories />
         <HowItWorks />
         <LabelGuide />
+        <CVFeature />
+        <AdviceBlog />
+        <FAQ />
+        <BottomCTA />
+        <Footer />
       </main>
     </div>
   );
